@@ -5,9 +5,9 @@ return {
     incremental_selection = {
       enable = true,
       keymaps = {
-        init_selection = "<S-Up>",     -- normal mode
-        node_incremental = "<S-Up>",   -- visual mode
-        node_decremental = "<S-Down>", -- visual mode
+        init_selection = "<C-M-Up>",     -- normal mode
+        node_incremental = "<C-M-Up>",   -- visual mode
+        node_decremental = "<C-M-Down>", -- visual mode
       },
     },
   },
