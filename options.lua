@@ -1,6 +1,7 @@
 return {
   opt = {
-    showmode = true
+    showmode = true,
+    showtabline = 0
   },
   g = {
   },
